@@ -3,6 +3,6 @@
 
 int main()
 {
-	std::cout << "Update in Blah!\n";
+	std::cout << "Update done on GitHub!\n";
 }
 
